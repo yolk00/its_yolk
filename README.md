@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yolk00
-- 👀 I’m interested in ... audio programming
-- 🌱 I’m currently learning ... c++
+- 👀 I’m interested in ... front end dev & audio programming
+- 🌱 I’m currently learning ... js
 - 💞️ I’m looking to collaborate on ... idk
 - 📫 How to reach me ... hm 🤔
 
